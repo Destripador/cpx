@@ -1,6 +1,5 @@
 # Cpx
-
-A template to get started with Nextcloud app development.
+## Nextcloud app development.
 
 ## Usage
 
